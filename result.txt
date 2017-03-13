@@ -1,0 +1,36 @@
+Name:elsu
+Current year:3
+Degree:btech
+Department:cseu
+Marks:50
+	*****************
+Name:maya
+Current year:2
+Degree:bba
+Department:economics
+Marks:30
+	*****************
+Name:aavany
+Current year:3rd
+Degree:b.tech
+Department:biotechnology
+Marks:40
+	*****************
+Name:amala
+Current year:3
+Degree:btech
+Department:civil
+Marks:35
+	*****************
+Name:stacey
+Current year:thirdbtech
+Degree:btech
+Department:cse
+Marks:30
+	*****************
+Name:Blessy
+Current year:3
+Degree:btech
+Department:CSE
+Marks:40
+	*****************
